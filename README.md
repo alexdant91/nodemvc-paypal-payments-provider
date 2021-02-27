@@ -15,7 +15,7 @@ const paypalPayouts = Paypal.init('payouts');
 const paypalCheckouts = Paypal.init('checkouts');
 ```
 
-Then you have access to the Stripe APIs SDK.
+Then you have access to the Paypal APIs SDK.
 
 ## Example
 
