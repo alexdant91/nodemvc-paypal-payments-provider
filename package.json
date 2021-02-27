@@ -1,0 +1,14 @@
+{
+  "name": "@nodemvc/paypal-payments-provider",
+  "version": "1.0.0",
+  "description": "Paypal payments api plugin for NodeMVC framework",
+  "main": "index.js",
+  "repository": "https://github.com/alexdant91/nodemvc-paypal-payments-provider",
+  "author": "Alessandro D'Antoni <alexdant91@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@paypal/checkout-server-sdk": "^1.0.2",
+    "@paypal/payouts-sdk": "^1.1.0"
+  }
+}
